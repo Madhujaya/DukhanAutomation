@@ -11,6 +11,7 @@ Browser("Dukhan Bank").Page("Dukhan Bank").WebEdit("WebEdit_4").Set "89898998" @
 Browser("Dukhan Bank").InsightObject("InsightObject").Click @@ hightlight id_;_5_;_script infofile_;_ZIP::ssf11.xml_;_
 wait 30
 wait 15
+wait 20
 
 
 Browser("Dukhan Bank").Page("Dukhan Bank").WebButton("Submit").Click @@ script infofile_;_ZIP::ssf12.xml_;_
